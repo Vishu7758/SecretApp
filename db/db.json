@@ -1,0 +1,29 @@
+{
+  "posts": [{"id": 1, "title": "json-server", "author": "typicode"}],
+  "products": [
+    {
+      "uid": 1,
+      "name": "Secret Product 1",
+      "status": "Just an extra ordinary teacher",
+      "imageUrl": "https://avatars.githubusercontent.com/u/11613311?v=4"
+    },
+    {
+      "uid": 2,
+      "name": "Secret Product 2",
+      "status": "I ❤️ To Code and Teach!",
+      "imageUrl": "https://avatars.githubusercontent.com/u/94738352?v=4"
+    },
+    {
+      "uid": 3,
+      "name": "Secret Product 3",
+      "status": "Making your GPay smooth",
+      "imageUrl": "https://avatars.githubusercontent.com/u/29747452?v=4"
+    },
+    {
+      "uid": 4,
+      "name": "Secret Product 4",
+      "status": "Building secure Digital banks",
+      "imageUrl": "https://avatars.githubusercontent.com/u/25549847?v=4"
+    }
+  ]
+}
