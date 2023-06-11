@@ -1,6 +1,6 @@
 import {SafeAreaView, StyleSheet, Text} from 'react-native';
 import React from 'react';
-import ProductList from './components/ProductList';
+import ProductList from './src/components/ProductList';
 
 const App = () => {
   return (
