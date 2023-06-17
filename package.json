@@ -11,13 +11,17 @@
     "dbserver": "json-server --watch ./db/db.json --port 3004"
   },
   "dependencies": {
+    "@ant-design/react-native": "^5.0.4",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "^6.9.12",
     "axios": "^1.4.0",
     "react": "18.2.0",
     "react-native": "0.71.10",
+    "react-native-config": "^1.5.1",
     "react-native-safe-area-context": "^4.5.3",
-    "react-native-screens": "^3.20.0"
+    "react-native-screens": "^3.20.0",
+    "react-native-snackbar": "^2.6.2",
+    "snackbar-react-native": "^1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
